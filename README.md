@@ -27,6 +27,7 @@ A simple cross-platform Flutter app for rolling dice.
 
 ## 📸 Screenshot
 
+![Simulator Screenshot - Older iPhone - 2023-11-04 at 13 12 13](https://github.com/omarx/DiceRoll-Mobile-App/assets/4944767/e018f54b-d85c-4760-a651-e31a9ab6915c)
 
 ## ❓ Questions & Support
 
