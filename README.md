@@ -1,16 +1,37 @@
-# my_first_app
+# DiceRoll Mobile App
 
-A new Flutter project.
+A simple cross-platform Flutter app for rolling dice.
 
-## Getting Started
+## 📌 Prerequisites
+- Flutter must be installed on your machine. If not, download it [here](https://docs.flutter.dev/get-started/install).
+- Android Studio or Xcode must be installed.
 
-This project is a starting point for a Flutter application.
+## 🚀 Installation & Setup
 
-A few resources to get you started if this is your first Flutter project:
+1. **Setting Up Dependencies**
+   Run the following command to install all necessary packages:
+    ```bash 
+    flutter pub get
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Launching the Application**
+   - To launch the app in a connected device or an emulator, execute:
+       ```bash 
+       flutter run
+       ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   - For developers, to build and watch for file changes, use:
+       ```bash 
+       flutter run --debug
+       ```
+
+## 📸 Screenshot
+
+
+## ❓ Questions & Support
+
+Should you face any challenges or have any inquiries:
+- 📮 Open an [issue on GitHub](#) or
+- 📩 Drop me an email at [omarpeart100@gmail.com](mailto:omarpeart100@gmail.com).
+
+For a deeper dive into my projects and contributions, please visit my [GitHub profile](https://github.com/omarx/).
